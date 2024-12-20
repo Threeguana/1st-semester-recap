@@ -1,11 +1,9 @@
-# 1st-semester-recap
-Jobsheet recap from 1st semester
+### 1st-Semester-Recap 📘  
+A recap of jobsheets and key concepts learned in the 1st semester of my studies.
 
-**what I learned in this semester**
-1. Basic Programming (Algorithm Concept)
-2. Case Study
-3. Data Types, Variables, Constants, Values, Expressions, Input-Output
-4. Selection
-5. Looping
-6. Array
-7. Function/Procedure
+#### Topics Covered:  
+- **Basic Programming**: Algorithm concepts and structured problem-solving.  
+- **Case Studies**: Practical implementations of programming principles.  
+- **Core Concepts**: Data types, variables, constants, values, expressions, input-output.  
+- **Control Structures**: Selection, looping, and arrays.  
+- **Procedures & Functions**: Modular programming techniques.
