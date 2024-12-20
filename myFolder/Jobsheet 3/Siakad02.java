@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Siakad02 {
     public static void main(String[] args) {
-        try (Scanner sc = new Scanner(System.in)) {
+        Scanner sc = new Scanner(System.in);
         byte absen;
         char kelas;
         String nama, nim;
@@ -32,6 +32,6 @@ public class Siakad02 {
         System.out.println("Kelas           : " + kelas);
         System.out.println("Absen           : " + absen);
         System.out.println("Nilai Akhir     : " + nilaiAkhir);
-        }
+        sc.close();
     }
 }
